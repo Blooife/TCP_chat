@@ -1,0 +1,15 @@
+C:\Users\Asus\RiderProjects\chat\chat\bin\Debug\net7.0\chat.exe
+C:\Users\Asus\RiderProjects\chat\chat\bin\Debug\net7.0\chat.deps.json
+C:\Users\Asus\RiderProjects\chat\chat\bin\Debug\net7.0\chat.runtimeconfig.json
+C:\Users\Asus\RiderProjects\chat\chat\bin\Debug\net7.0\chat.dll
+C:\Users\Asus\RiderProjects\chat\chat\bin\Debug\net7.0\chat.pdb
+C:\Users\Asus\RiderProjects\chat\chat\obj\Debug\net7.0\chat.csproj.AssemblyReference.cache
+C:\Users\Asus\RiderProjects\chat\chat\obj\Debug\net7.0\chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\RiderProjects\chat\chat\obj\Debug\net7.0\chat.AssemblyInfoInputs.cache
+C:\Users\Asus\RiderProjects\chat\chat\obj\Debug\net7.0\chat.AssemblyInfo.cs
+C:\Users\Asus\RiderProjects\chat\chat\obj\Debug\net7.0\chat.csproj.CoreCompileInputs.cache
+C:\Users\Asus\RiderProjects\chat\chat\obj\Debug\net7.0\chat.dll
+C:\Users\Asus\RiderProjects\chat\chat\obj\Debug\net7.0\refint\chat.dll
+C:\Users\Asus\RiderProjects\chat\chat\obj\Debug\net7.0\chat.pdb
+C:\Users\Asus\RiderProjects\chat\chat\obj\Debug\net7.0\chat.genruntimeconfig.cache
+C:\Users\Asus\RiderProjects\chat\chat\obj\Debug\net7.0\ref\chat.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PiJsKBtFIMiNd+I0bUgpfr19dpfJ6LDIkRHBYcM2a0CPhCOkphd4tUrURt9osOkN4WJXkaVxiFrNUNEs7r2KMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\RiderProjects\\chat\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.1\\microsoft.netcore.app.runtime.win-x64.7.0.1.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.1.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.1\\microsoft.aspnetcore.app.runtime.win-x64.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
